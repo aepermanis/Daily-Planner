@@ -14,6 +14,20 @@ I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
 
+## Sources 
+
+https://www.freecodecamp.org/news/break-in-python-nested-for-loop-break-if-condition-met-example/#:~:text=In%20situations%20where%20we%20want,to%20%22break%22%20the%20loop.
+
+https://day.js.org/docs/en/display/format
+
+https://stackoverflow.com/questions/12327883/how-can-i-save-the-contents-of-a-textarea-as-a-variable-using-javascript-in-an-e
+
+https://stackoverflow.com/questions/507138/how-to-add-a-class-to-a-given-element
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea
+
+
+
 ## Acceptance Criteria
 
 ```md
