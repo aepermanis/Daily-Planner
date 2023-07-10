@@ -2,6 +2,8 @@
 
 ## Description
 
+https://aepermanis.github.io/Daily-Planner/
+
 # User Story
 
 ```md
@@ -32,7 +34,7 @@ THEN the saved events persist
 
 ![daily calender](Assets/screenshot1.png)
 
-![daily calender 2](Assests/screenshot2.png)
+![daily calender 2](Assets/screenshot2.png)
 
 ## Sources 
 
